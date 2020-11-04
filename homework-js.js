@@ -34,8 +34,8 @@ for(i=0; i<number.length; i++)
   {console.log(number[i] )}};
 
 //5.//
-let user2 = ["name" , "age", 25, 50, "surname", [100, 500] ];
-console.log(user2[5][1]);
+let user1 = ["name" , "age", 25, 50, "surname", [100, 500] ];
+console.log(user1[5][1]);
 
 //6.//
 var person = {
@@ -47,7 +47,7 @@ var person = {
 console.log(person.eyecolor);
 
 //7.//
-let masivi=[ 5,"სახელი" , 'გვარი' , 152, 'სტუდენტების სია' ]
+let list = [ 5,"სახელი" , 'გვარი' , 152, 'სტუდენტების სია' ]
 for(i=0; i<5; i++){ 
     console.log(masivi[i]);
 }
