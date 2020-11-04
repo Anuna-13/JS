@@ -49,5 +49,5 @@ console.log(person.eyecolor);
 //7.//
 let list = [ 5,"სახელი" , 'გვარი' , 152, 'სტუდენტების სია' ]
 for(i=0; i<5; i++){ 
-    console.log(masivi[i]);
+    console.log(list[i]);
 }
