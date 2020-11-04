@@ -47,7 +47,7 @@ var person = {
 console.log(person.eyecolor);
 
 //7.//
-let list = [ 5,"სახელი" , 'გვარი' , 152, 'სტუდენტების სია' ]
-for(i=0; i<5; i++){ 
+let list = [ "სტუდენტების სია" , "სახელი" , "გვარი" , "რაოდენობა", "ასაკი", 152 ]
+for(i=0; i<6; i++){ 
     console.log(list[i]);
 }
